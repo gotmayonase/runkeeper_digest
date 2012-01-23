@@ -1,0 +1,11 @@
+development:
+  adapter: postgresql
+  database: runkeeper_digest_development
+
+test:
+  adapter: postgresql
+  database: runkeeper_digest_test
+
+production:
+  adapter: postgresql
+  database: runkeeper_digest_production

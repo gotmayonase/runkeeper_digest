@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  activity_type: MyString
+  start_time: 2012-01-22 16:30:57
+  total_distance: 1
+  duration: 9.99
+  total_calories: 9.99
+  user_id: 1
+
+two:
+  activity_type: MyString
+  start_time: 2012-01-22 16:30:57
+  total_distance: 1
+  duration: 9.99
+  total_calories: 9.99
+  user_id: 1
